@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="test" main_module="test">
+    <requires name="panda3d" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <requires name="numpy" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <requires name="pil" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <requires name="pygame" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <requires name="sqlite" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <requires name="httplib2" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+</package>
